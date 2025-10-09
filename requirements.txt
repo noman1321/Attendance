@@ -1,0 +1,11 @@
+streamlit
+deepface==0.0.79
+opencv-python-headless
+pillow
+numpy
+pandas
+tensorflow>=2.13.0
+tf-keras>=2.13.0
+mtcnn>=0.1.1
+retina-face>=0.0.13
+
